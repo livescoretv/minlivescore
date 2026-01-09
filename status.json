@@ -23,6 +23,18 @@
         "app_name":"Live Football HD"
       }
     },
+    "com.africa.cup.livescore": {
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-3879171575905497/7483898374",
+      "am_ba": "ca-app-pub-3879171575905497/1991720936",
+      "app_id": "ca-app-pub-3879171575905497~8314937771",
+
+      "interval": 30000,
+      "is_id": "",
+      "get_channel_via_link": true,
+      "stats_urlzzz": "data/africa2023/st",
+      "live_display_duration": 120
+    },
     "com.plive.tv.debug": {
       "ads_list": [""],
       "am_in": "",
