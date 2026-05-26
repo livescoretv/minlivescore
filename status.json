@@ -24,12 +24,14 @@
       }
     },
     "com.aff.cup.livescore": {
-      "ads_list": ["xx"],
-      "am_in": "",
-      "am_ba": "",
-      "app_id": "",
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-4756472212563830/8405846468",
+      "am_ba": "ca-app-pub-4756472212563830/8697490505",
+      "am_na": "ca-app-pub-4756472212563830/9639037082",
 
-      "interval": 10000,
+      "app_id": "ca-app-pub-4756472212563830~3967908006",
+
+      "interval": 50000,
       "is_id": "",
       "get_channel_via_link": true,
       "ch_url" : "all",
