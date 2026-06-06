@@ -23,6 +23,21 @@
         "app_name":"Live Football HD"
       }
     },
+    "com.aff.cup.livescore.test": {
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
+
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
+
+      "interval": 10000,
+      "is_id": "",
+      "get_channel_via_link": true,
+      "ch_url" : "all",
+      "stats_urlzzz": "data/africa2023/st",
+      "live_display_duration": 120
+    },
     "com.aff.cup.livescore": {
       "ads_list": ["am"],
       "am_in": "ca-app-pub-4756472212563830/8405846468",
