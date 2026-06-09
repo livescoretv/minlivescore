@@ -39,15 +39,15 @@
       "live_display_duration": 120
     },
     "com.aff.cup.livescore": {
-      "ads_list": ["am"],
-      "am_ba": "ca-app-pub-6615831081036167/7190987666",
-      "am_in": "ca-app-pub-6615831081036167/6620142027",
-      "am_na": "ca-app-pub-6615831081036167/5877905995",
+      "ads_list": ["am", "is"],
+      "am_ba": "ca-app-pub-6131673651325274/5373005937",
+      "am_in": "ca-app-pub-6131673651325274/4088720135",
+      "am_na": "ca-app-pub-6131673651325274/4597312019",
 
-      "app_id": "ca-app-pub-6615831081036167~2963968049",
+      "app_id": "ca-app-pub-6131673651325274~1458687369",
 
       "interval": 50000,
-      "is_id": "",
+      "is_id": "26aad48b5",
       "get_channel_via_link": true,
       "ch_url" : "all",
       "stats_urlzzz": "data/africa2023/st",
