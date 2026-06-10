@@ -1,8 +1,8 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/hmstddb/footballhd/master/ad/icon1.png",
-      "cover": "https://raw.githubusercontent.com/hmstddb/footballhd/master/ad/graphic1.png",
+      "icon": "https://raw.githubusercontent.com/livescoretv/minlivescore/master/ad/icon1.png",
+      "cover": "https://raw.githubusercontent.com/livescoretv/minlivescore/master/ad/graphic1.png",
       "appName": "World Cup 2026 Live TV",
       "description": "Watch World Cup 2026 Live online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football",
       "package": "com.hm.livescore",
@@ -10,8 +10,8 @@
       "actionText": "VISIT APP",
       "type": "app"
     },{
-      "icon": "https://raw.githubusercontent.com/hmstddb/footballhd/master/ad/icon.png",
-      "cover": "https://raw.githubusercontent.com/hmstddb/footballhd/master/ad/graphic.png",
+      "icon": "https://raw.githubusercontent.com/livescoretv/minlivescore/master/ad/icon.png",
+      "cover": "https://raw.githubusercontent.com/livescoretv/minlivescore/master/ad/graphic.png",
       "appName": "Flashscore",
       "description": "Watch 2024 Football Live online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football",
       "package": "eu.livesport.FlashScore_com",
