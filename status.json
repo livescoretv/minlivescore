@@ -31,7 +31,7 @@
 
       "app_id": "ca-app-pub-3940256099942544~3347511713",
 
-      "interval": 10000,
+      "interval": 1000000,
       "is_id": "",
       "get_channel_via_link": true,
       "ch_url" : "all",
