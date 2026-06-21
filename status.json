@@ -61,9 +61,9 @@
       "is_id": "26aad48b5",
       "get_channel_via_link": true,
       "ch_url" : "all",
-      "stats_urlzzz": "data/africa2023/st",
-      "fi_url": "data/africa2023/fi",
-      "sq_url": "data/africa2023/sq/",
+      "stats_urlzzz": "data/affcup2024/st",
+      "fi_url": "data/affcup2024/fi",
+      "sq_url": "data/affcup2024/sq/",
 
       "live_display_duration": 120,
   
