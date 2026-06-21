@@ -30,7 +30,11 @@
       "am_na11": "ca-app-pub-3940256099942544/2247696110",
 
       "app_id": "ca-app-pub-3940256099942544~3347511713",
-      "football_type": 3,
+      
+            "fi_url": "data/affcup2024/fi",
+      "sq_url": "data/affcup2024/sq",
+      "fit_url": "data/affcup2024",
+      
       "interval": 1000,
       "is_id": "",
       "get_channel_via_link": true,
