@@ -56,13 +56,15 @@
       "am_na": "",
 
       "app_id": "ca-app-pub-3233442975694655~9400293543",
-      "football_type111": 3,
+      "football_type": 3,
       "interval": 50000,
       "is_id": "26aad48b5",
       "get_channel_via_link": true,
       "ch_url" : "all",
       "stats_urlzzz": "data/africa2023/st",
       "fi_url": "data/africa2023/fi",
+      "sq_url": "data/africa2023/sq/",
+
       "live_display_duration": 120,
   
 
