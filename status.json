@@ -55,9 +55,9 @@
     },
     "com.aff.cup.livescore": {
       "ads_list": ["am", "is"],
-      "am_ba": "",
+      "am_ba": "ca-app-pub-3233442975694655/1753554036",
       "am_in": "ca-app-pub-3233442975694655/6236938576",
-      "am_na": "",
+      "am_na": "ca-app-pub-3233442975694655/7956266231",
 
       "app_id": "ca-app-pub-3233442975694655~9400293543",
       "football_type111": 3,
@@ -65,10 +65,6 @@
       "is_id": "26aad48b5",
       "get_channel_via_link": true,
       "ch_url" : "all",
-      "stats_urlzzz": "data/affcup2024/st",
-      "fi_url111": "data/affcup2024/fi",
-      "sq_url111": "data/affcup2024/sq",
-      "fit_url111": "data/affcup2024",
 
       "live_display_duration": 120,
   
