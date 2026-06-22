@@ -65,6 +65,10 @@
       "is_id": "26aad48b5",
       "get_channel_via_link": true,
       "ch_url" : "all",
+      "stats_urlzzz": "data/affcup2024/st",
+      "fi_url": "data/affcup2024/fi",
+      "sq_url111": "data/affcup2024/sq",
+      "fit_url111": "data/affcup2024",
 
       "live_display_duration": 120,
   
