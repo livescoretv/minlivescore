@@ -39,7 +39,7 @@
       "interval": 1000,
       "is_id": "",
       "get_channel_via_link": true,
-      "show_native_channel": true,
+      "show_native_channel11": true,
       "ch_url" : "all",
       "stats_urlzzz": "data/africa2023/st",
       "live_display_duration": 120,
