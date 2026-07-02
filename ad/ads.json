@@ -5,7 +5,7 @@
       "cover": "https://raw.githubusercontent.com/livescoretv/minlivescore/master/ad/grad1.png",
       "appName": "World Cup 2026 Live",
       "description": "Watch World Cup 2026 Live Streaming online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football",
-      "package": "com.hm.livescore",
+      "package": "world.football.cup",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
