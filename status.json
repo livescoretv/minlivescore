@@ -31,8 +31,8 @@
 
       "app_id": "ca-app-pub-3940256099942544~3347511713",
       
-      "fi_url11": "data/affcup2024/fi",
-      "sta_url111": "data/affcup2024/sta",
+      "fi_url": "data/affcup2024/fi",
+      "sta_url": "data/affcup2024/sta",
       "sq_url111": "data/affcup2024/sq",
       "fit_url111": "data/affcup2024",
 
@@ -69,8 +69,8 @@
       "ch_url" : "all",
 
       "stats_urlzzz": "data/affcup2024/st",
-      "fi_url11": "data/affcup2024/fi",
-      "sta_url11": "data/affcup2024/sta",
+      "fi_url": "data/affcup2024/fi",
+      "sta_url": "data/affcup2024/sta",
 
       "live_display_duration": 120,
   
