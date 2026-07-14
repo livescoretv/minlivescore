@@ -56,12 +56,12 @@
       }
     },
     "com.aff.cup.livescore": {
-      "ads_list": ["am11", "is"],
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "ads_list": ["am", "is"],
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
 
-      "app_id": "",
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
       "football_type111": 3,
       "interval": 50000,
       "is_id": "26aad48b5",
