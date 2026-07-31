@@ -24,12 +24,12 @@
       }
     },
      "com.africa.cup.livescore": {
-      "ads_list": ["is"],
-      "am_in": "",
-      "am_ba": "",
-      "am_na": "",
+      "ads_list": ["am", "is"],
+      "am_in": "ca-app-pub-6750486231908888/2467366290",
+      "am_ba": "ca-app-pub-6750486231908888/7572619241",
+      "am_na": "ca-app-pub-6750486231908888/4180169147",
 
-      "app_id": "",
+      "app_id": "ca-app-pub-6750486231908888~4016517614",
       "is_id": "2753d40b5",
  
       "interval": 50000,
